@@ -1,2 +1,16 @@
-# Zootopia
-Zootopia is a Flutter-based mobile app with Firebase as the backend for pet  health management, safety, and pet care services. It allows pet owners to  track their pets' health, book vet appointments, generate QR codes for pet  identification, and shop for pet products. 
+# zootopia
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
